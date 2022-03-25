@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+header{
+    align-items: center;
+    background: #d35649;
+    width: 100%;
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0%;
+}
+.col-b{
+    text-align: right;
+    display: flex;
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+    color: #d35649;
+    font-size: 150%;
+
+}
+.col{
+    width: 80%;
+    padding: 2%;
+    text-align: center;
+    padding-left: 5%;
+}
+#data{
+    margin: -2rem;
+    display: flex;
+    padding-left: 20rem;
+
+}
